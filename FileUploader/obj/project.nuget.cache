@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+x2laHX9MuGbMl1xnKi8DtDlRdeY0iwC8RsZrPZ/K9s1uFk0k1TITOpgnYco1p4g975OdHYJZtUmWcl1dURhZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\CrackerJack-IT\\Projects\\FileUploader\\FileUploader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
